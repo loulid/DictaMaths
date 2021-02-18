@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="action_save">action</string>
+    <string name="action_delete">action_delete</string>
+    <string name="action_settings">action_settings</string>
+    <string name="Nom">nom</string>
+    <string name="Prenom">prenom</string>
+    <string name="Pass">Mot de passe</string>
+    <string name="Inscription">Inscription</string>
+    <string name="se_connecter">connexion</string>
+    <string name="login">Connexion</string>
+    <string name="Inscrire">Inscrire</string>
+</resources>
